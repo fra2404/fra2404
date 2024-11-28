@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Lingue disponibili
 - [Italiano](README.it.md)
-- [English](README.en.md)
+- [English](README.md)
 
 
 # Benvenuti nel profilo di Francesco Albano 👋  
