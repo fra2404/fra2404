@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Lingue disponibili
+- [Italiano](README.it.md)
+- [English](README.en.md)
 
 
 # Benvenuti nel profilo di Francesco Albano 👋  
