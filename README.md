@@ -14,73 +14,74 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Lingue disponibili
+## Available languages
 - [Italiano](README.it.md)
 - [English](README.md)
 
 
-# Benvenuti nel profilo di Francesco Albano 👋  
+# Welcome to Francesco Albano's profile 👋  
 
 Business Manager IT Area | Fullstack Developer | Backend Tech Manager
 
-## 😄 Chi sono  
-Sono **Francesco Albano**, un Fullstack Developer con una forte passione per lo sviluppo di soluzioni innovative e una solida esperienza nella gestione di sistemi distribuiti e infrastrutture cloud. Attualmente sto perfezionando le mie competenze con una laurea magistrale in **Computer Engineering** presso il Politecnico di Torino.  
+## 😄 About me  
+I am **Francesco Albano**, a Fullstack Developer with a strong passion for developing innovative solutions and solid experience in managing distributed systems and cloud infrastructures. I am currently honing my skills with a Master's degree in **Computer Engineering** at the Polytechnic University of Turin.   
 
-Sono sempre alla ricerca di nuove sfide che mi permettano di crescere professionalmente e contribuire a progetti significativi.  
+I am always looking for new challenges that will allow me to grow professionally and contribute to significant projects.  
 
 ---
 
-## 📚 Formazione
+## 📚 Training
 - Master in Computer Engineering (Cloud Computing & Network Infrastructure)
-Politecnico di Torino (2024 - in corso)
-- Laurea Triennale in Ingegneria Informatica
-Università degli Studi di Palermo (2019 - 2023)
-- Diploma Classico Internazionale
-Liceo Classico Internazionale “G. Meli” - Palermo
-(Doppio diploma Italia-Spagna)
+Politecnico di Torino (2024 - ongoing)
+- Bachelor's Degree in Computer Engineering
+University of Palermo (2019 - 2023)
+- International Classical Diploma
+Liceo Classico Internazionale ‘G. Meli’ - Palermo
+(Double Diploma Italy-Spain)
 
 ---
-## 💼 Esperienza lavorativa
+## 💼 Work experience
 
 ### Soc. Coop. Mind Palermo  
-(2023 - in corso)
-- Business Manager per l’area IT.
-- Sviluppo Fullstack e creazione del sito corporate.
+(2023 - ongoing)
+- Business Manager for the IT area.
+- Fullstack development and corporate website creation.
 
 ### Elite 23 & Co  
-(2024 - in corso)  
-- Backend Developer e Tech Manager.
-- Responsabile del rilascio su sistemi distribuiti e containerizzati.
-- Creazione di un portale OTA innovativo.
+(2024 - ongoing)  
+- Backend Developer and Tech Manager.
+- Responsible for release on distributed and containerised systems.
+- Creation of an innovative OTA portal.
 
-### Libero professionista
-(2022 - in corso)  
-Mi sono occupato di numerosi progetti per clienti privati, realizzando siti vetrini, ecommerce e quanto necessario per il cliente
-
----
-
-## 🔭 Esplora i miei progetti  
-Nel mio profilo potrai trovare alcuni dei progetti a cui ho preso parte, che spaziano tra:  
-- Sviluppo di applicazioni web e mobile.  
-- Containerizzazione e rilascio su sistemi distribuiti.  
-- Progettazione e implementazione di infrastrutture cloud.  
-- Siti web personalizzati e innovativi.
-
-> **Nota:** Non tutti i progetti su cui ho lavorato sono visibili in questo profilo. Alcuni di essi sono riservati e non possono essere resi pubblici, poiché fanno parte di collaborazioni con aziende o sono soggetti a restrizioni di privacy.
+### Frelancer
+(2022 - ongoing)  
+I have been involved in numerous projects for private clients, creating window sites, ecommerce and what was needed for the client
 
 ---
 
-## ⚙️ Competenze tecniche  
-- **Linguaggi di programmazione:** JavaScript, Typescript, Python, PHP, C/C++, Java, Assembly.  
-- **Framework e librerie:** Node.js, Nest.js, Next.js, React.js, GraphQL, React Native.
-- **Basi di dati:** MongoDB, MySQL/MariaDB.  
-- **Strumenti e piattaforme:** Linux, Docker, Kubernetes, Wireshark, MATLAB, AutoCAD.  
+## 🔭 Explore my projects  
+In my profile you can find some of the projects I have taken part in, ranging from:  
+- Web and mobile application development.  
+- Containerisation and release on distributed systems.  
+- Cloud infrastructure design and implementation.  
+- Customised and innovative websites.
+
+> **Note:** Not all projects I have worked on are visible in this profile. Some of them are confidential and cannot be made public as they are part of collaborations with companies or are subject to privacy restrictions.
+
 
 ---
 
-## 📫 Contatti  
-Se desideri collaborare o discutere di un progetto, puoi contattarmi attraverso i seguenti canali:  
-- **Email:** [fransyalbano@outlook.it](mailto:fransyalbano@outlook.it)  
+## ⚙️ Technical skills  
+- **Programming languages:** JavaScript, Typescript, Python, PHP, C/C++, Java, Assembly.  
+- **Frameworks and libraries:** Node.js, Nest.js, Next.js, React.js, GraphQL, React Native.
+- **Databases:** MongoDB, MySQL/MariaDB.  
+- **Tools and platforms:** Linux, Docker, Kubernetes, Wireshark, MATLAB, AutoCAD. 
+
+---
+
+## 📫 Contact  
+If you wish to collaborate or discuss a project, you can contact me via the following channels:  
+- **Email:** [francescoalbano357@gmail.com](mailto:francescoalbano357@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/francesco-albano](https://www.linkedin.com/in/francesco-albano/)  
 
-Grazie per la visita e buona esplorazione del mio profilo! 🚀  
+Thanks for visiting and enjoy exploring my profile! 🚀  
