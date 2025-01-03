@@ -80,7 +80,7 @@ Nel mio profilo potrai trovare alcuni dei progetti a cui ho preso parte, che spa
 
 ## 📫 Contatti  
 Se desideri collaborare o discutere di un progetto, puoi contattarmi attraverso i seguenti canali:  
-- **Email:** [fransyalbano@outlook.it](mailto:fransyalbano@outlook.it)  
+- **Email:** [francescoalbano357@gmail.com](mailto:francescoalbano357@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/francesco-albano](https://www.linkedin.com/in/francesco-albano/)  
 
 Grazie per la visita e buona esplorazione del mio profilo! 🚀  
