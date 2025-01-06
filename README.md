@@ -42,16 +42,16 @@ Liceo Classico Internazionale ‘G. Meli’ - Palermo
 ---
 ## 💼 Work experience
 
-### Soc. Coop. Mind Palermo  
-(2023 - ongoing)
-- Business Manager for the IT area.
-- Fullstack development and corporate website creation.
-
 ### Elite 23 & Co  
 (2024 - ongoing)  
 - Backend Developer and Tech Manager.
 - Responsible for release on distributed and containerised systems.
 - Creation of an innovative OTA portal.
+
+### Soc. Coop. Mind Palermo  
+(2023 - ongoing)
+- Business Manager for the IT area.
+- Fullstack development and corporate website creation.
 
 ### Frelancer
 (2022 - ongoing)  
